@@ -1,0 +1,22 @@
+{
+  "main": "jano.js",
+  "scripts": {
+    "start": "node jano.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
