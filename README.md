@@ -1,1 +1,0 @@
-# acc-face-100-dana-ba-id-voice-esh-aka
