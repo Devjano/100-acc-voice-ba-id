@@ -1,5 +1,5 @@
 
-const Discord = require("discord.js"); 
+const Discord = require("843950877601431653"); 
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
@@ -107,7 +107,7 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = jano.channels.get("843950884282040320"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -2461,7 +2461,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("ODgzMzY1NTIwNDU4NTI2NzMx.YTI4ug.XvwIkzx8UI73oEZSiXK9XkGES18");
 jano2.login("");
 jano3.login("");
 jano4.login("");
