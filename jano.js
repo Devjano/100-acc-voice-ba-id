@@ -545,7 +545,7 @@ jano.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -564,7 +564,7 @@ jano2.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -583,7 +583,7 @@ jano3.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -602,7 +602,7 @@ jano4.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -621,7 +621,7 @@ jano5.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -640,7 +640,7 @@ jano6.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -659,7 +659,7 @@ jano7.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -678,7 +678,7 @@ jano8.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -697,7 +697,7 @@ jano9.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -716,7 +716,7 @@ jano10.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -735,7 +735,7 @@ jano11.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -754,7 +754,7 @@ jano12.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -773,7 +773,7 @@ jano13.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -792,7 +792,7 @@ jano14.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -811,7 +811,7 @@ jano15.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -830,7 +830,7 @@ jano16.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -849,7 +849,7 @@ jano17.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -868,7 +868,7 @@ jano18.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -887,7 +887,7 @@ jano19.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -906,7 +906,7 @@ jano20.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -925,7 +925,7 @@ jano21.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -944,7 +944,7 @@ jano22.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -963,7 +963,7 @@ jano23.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -982,7 +982,7 @@ jano24.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1001,7 +1001,7 @@ jano25.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1020,7 +1020,7 @@ jano26.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1039,7 +1039,7 @@ jano27.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1058,7 +1058,7 @@ jano28.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1077,7 +1077,7 @@ jano29.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1096,7 +1096,7 @@ jano30.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1115,7 +1115,7 @@ jano31.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1134,7 +1134,7 @@ jano32.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1153,7 +1153,7 @@ jano33.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1172,7 +1172,7 @@ jano34.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1191,7 +1191,7 @@ jano35.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1210,7 +1210,7 @@ jano36.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1229,7 +1229,7 @@ jano37.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1248,7 +1248,7 @@ jano38.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1267,7 +1267,7 @@ jano39.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1286,7 +1286,7 @@ jano41.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1305,7 +1305,7 @@ jano42.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1324,7 +1324,7 @@ jano43.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1343,7 +1343,7 @@ jano44.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1362,7 +1362,7 @@ jano45.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1381,7 +1381,7 @@ jano45.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1400,7 +1400,7 @@ jano46.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1419,7 +1419,7 @@ jano47.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1438,7 +1438,7 @@ jano48.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1457,7 +1457,7 @@ jano49.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1476,7 +1476,7 @@ jano49.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1495,7 +1495,7 @@ jano50.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
@@ -1507,6 +1507,7 @@ jano50.on("ready", () => {
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
+
 
 jano51.on("ready", () => {
   console.log(
