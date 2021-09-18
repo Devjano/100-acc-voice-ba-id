@@ -513,16 +513,11 @@ jano82.on("ready", () => {
     var join = jano82.channels.get(""); /// id voice
     if (join) join.join();
   });
-///////////////////
-
 //////////////////
 jano83.on("ready", () => {
     var join = jano83.channels.get(""); /// id voice
     if (join) join.join();
   });
-
-
-
 //////////////////
 jano84.on("ready", () => {
     var join = jano84.channels.get(""); /// id voice
@@ -2530,7 +2525,6 @@ jano100.on("ready", () => {
   }, 2000);
 });
 //////// playing or dnd  streaming ////////
-
 
 //////////////// tokn lera da bne 
 
