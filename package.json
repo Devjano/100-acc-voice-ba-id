@@ -1,5 +1,7 @@
 {
+  "name": "jano",
   "version": "2.1.0",
+  "description": "jano",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
@@ -13,4 +15,3 @@
     "node": "8.x"
   }
 }
-
