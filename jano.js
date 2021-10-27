@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`https://200-accounte-online.glitch.me`);
+  http.get(``);
 }, 280000);
 ////////////////////////////
 const Discord = require("discord.js"); 
