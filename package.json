@@ -11,6 +11,5 @@
     "discord.js-v12": "^12.5.3"
   },
   "engines": {
-    "node": "12.x"
   }
 }
