@@ -1,7 +1,7 @@
 {
-  "name": "glitch-hello-node",
+  "name": "acc online",
   "version": "0.0.1",
-  "description": "acc rep by jano",
+  "description": "acc online vc ba id",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
